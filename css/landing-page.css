@@ -1,0 +1,28 @@
+body {
+	overflow: auto;
+	background-color: rgb(248, 249, 252);
+	text-align: center;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url("/img/edificio.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+#titulo {
+	color: #fff;
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	margin: -30px 0 0 -600px;
+}
+#texto {
+	font-size: 80px;
+}
+#boton1 {
+	margin-top: 20px;
+}
+#formulario {
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 500px;
+}
